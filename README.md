@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [WhatsApp Bot](https://noob.com)
 
-- 🌱 I’m currently learning **Garena me Grenade se Samne Wale ki mundi kaise udate hein**
+- 🌱 I’m currently learning **Garena me Grenade se Samne Wale ki mundi kaise udaya jaye**
 
 - 👯 I’m looking to collaborate on **What's up**
 
