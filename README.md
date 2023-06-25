@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋, I'm Sid</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sid238&label=Profile%20views&color=0e75b6&style=flat" alt="sid238" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sidbhai&label=Profile%20views&color=0e75b6&style=flat" alt="sidbhai" /> </p>
 
 - 🔭 I’m currently working on [ANNONYMOUS PROJECT]
 
@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for help with **H4X**
 
-- 👨‍💻 All of my projects are available at [GitHub.com/SID238](GitHub.com/sid238)
+- 👨‍💻 All of my projects are available at [GitHub.com/sidbhai](GitHub.com/sidbhai)
 
 - 📝 I regularly write articles on [This page not found]
 
@@ -38,9 +38,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sid238&show_icons=true&locale=en&layout=compact" alt="sid238" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sid238&show_icons=true&locale=en" alt="sid238" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sidbhai&show_icons=true&locale=en" alt="sidbhai" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sid238&" alt="sid238" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sidbhai&" alt="sidbhai" /></p>
 
 
 
